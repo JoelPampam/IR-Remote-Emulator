@@ -445,8 +445,3 @@ xmit 2
 
 ---
 
-# Author
-
-Embedded Systems Semester Project
-
-Developed using the Texas Instruments TM4C123 LaunchPad as a programmable infrared remote recorder and transmitter.
